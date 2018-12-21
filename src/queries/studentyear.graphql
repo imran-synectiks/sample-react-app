@@ -1,0 +1,8 @@
+query findAllByLocation{
+  findAllByLocation{
+    id
+    name
+    address
+    appliesTo
+  }
+}
